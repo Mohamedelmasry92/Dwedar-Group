@@ -8,7 +8,7 @@ export default function Stages() {
 
 
 
-    <div className="container-fluid px-md-5 px-sm-0 my-5">
+    <div className="container-fluid px-lg-5 px-md-auto px-sm-auto my-5">
       <div className="row text-center  ">
 
           <div className="col-md-3 py-5 px-3 my-3 position-relative control-processes">

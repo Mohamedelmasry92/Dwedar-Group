@@ -60,7 +60,7 @@ export default function Service2Auditing() {
 </div>
 
 
-<div className='container-fluid bg-custom-father-body px-lg-5 px-sm-0 my-5' >
+<div className='container-fluid bg-custom-father-body px-lg-5 px-md-auto px-sm-auto my-5' >
   <div className='row g-0'>
 
     <div className='col-md-4 '>
@@ -83,10 +83,10 @@ export default function Service2Auditing() {
 
     <div className='col-md-8 bg-white  shadow-lg'>
         <h3 className='fw-bolder bg-main p-1 text-white text-center'> خدمات المراجعة والفحص المحدود : </h3>
-        <p className='px-lg-5 px-sm-0 py-2 text-main fs-5 mt-3 fw-bold'> نحن نقدم خدمات المراجعة والفحص المحدود للتأكد من دقة ونزاهة القوائم المالية، مما يساعد عملاءنا على اكتساب المزيد من الثقة في تقاريرهم المالية. </p>
-        <p className='px-lg-5 px-sm-0 py-2 text-main fs-5 mt-3 fw-bold'> إن مراجعة القوائم المالية للعملاء بجودة عالية ضرورية لاستمرار عملهم بشكل صحيح،</p>
-        <p className='px-lg-5 px-sm-0 py-2 text-main fs-5 mt-3 fw-bold'>  لذلك يؤمن مراجعو الحسابات بمجموعــــــة دويدار بأن المراجــعين المســـــــتقلين يؤدون دوراً مهما كوسطاء موثوقين بين مقدمي التقارير حول الأعمال ومستخدميها،</p>
-        <p className='px-lg-5 px-sm-0 py-2 text-main fs-5 mt-3 fw-bold'>  حيث أن وجودنا كمراجعي حسابات خارجيين يضمن المراجعة المستقلة والمساهمة بشكل فعال في القضاء على احتمالات الغش والاحتيال الجوهرية في التقارير المالية.</p>
+        <p className='px-lg-5 px-md-auto px-sm-auto py-2 text-main fs-5 mt-3 fw-bold'> نحن نقدم خدمات المراجعة والفحص المحدود للتأكد من دقة ونزاهة القوائم المالية، مما يساعد عملاءنا على اكتساب المزيد من الثقة في تقاريرهم المالية. </p>
+        <p className='px-lg-5 px-md-auto px-sm-auto py-2 text-main fs-5 mt-3 fw-bold'> إن مراجعة القوائم المالية للعملاء بجودة عالية ضرورية لاستمرار عملهم بشكل صحيح،</p>
+        <p className='px-lg-5 px-md-auto px-sm-auto py-2 text-main fs-5 mt-3 fw-bold'>  لذلك يؤمن مراجعو الحسابات بمجموعــــــة دويدار بأن المراجــعين المســـــــتقلين يؤدون دوراً مهما كوسطاء موثوقين بين مقدمي التقارير حول الأعمال ومستخدميها،</p>
+        <p className='px-lg-5 px-md-auto px-sm-auto py-2 text-main fs-5 mt-3 fw-bold'>  حيث أن وجودنا كمراجعي حسابات خارجيين يضمن المراجعة المستقلة والمساهمة بشكل فعال في القضاء على احتمالات الغش والاحتيال الجوهرية في التقارير المالية.</p>
            
 
     </div>
@@ -97,7 +97,7 @@ export default function Service2Auditing() {
 
 
 
-    <div className='container-fluid px-lg-5 px-sm-0  mb-5 mt-5 bg-custom-father-body '>
+    <div className='container-fluid px-lg-5 px-md-auto px-sm-auto  mb-5 mt-5 bg-custom-father-body '>
 
 
     <div className=" title py-3 text-center ">

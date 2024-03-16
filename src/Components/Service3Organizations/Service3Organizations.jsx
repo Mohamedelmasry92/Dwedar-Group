@@ -60,7 +60,7 @@ export default function Service3Organizations() {
     </div>
 
 
-    <div className='container-fluid bg-custom-father-body px-lg-5 px-sm-0 my-5' >
+    <div className='container-fluid bg-custom-father-body px-lg-5 px-md-auto px-sm-auto my-5' >
   <div className='row g-0 '>
 
     <div className='col-md-4 '>
@@ -83,8 +83,8 @@ export default function Service3Organizations() {
 
     <div className='col-md-8 bg-white  shadow-lg text-center'>
         <h3 className='fw-bolder p-1 text-center text-white bg-main '> الخدمات المؤسسية : </h3>
-        <p className='px-lg-5 px-sm-0 py-2 text-main fs-5 mt-3 fw-bold p-5'> نساعد عملائنا بتقديم حلول الأعمال التجارية المتخصصة والاستشارات المالية،  </p>
-        <p className='px-lg-5 px-sm-0 py-2 text-main fs-5 mt-3 fw-bold p-5'> ولدينا الكوادر المؤهلة للقيام بذلك.</p>
+        <p className='px-lg-5 px-md-auto px-sm-auto py-2 text-main fs-5 mt-3 fw-bold p-5'> نساعد عملائنا بتقديم حلول الأعمال التجارية المتخصصة والاستشارات المالية،  </p>
+        <p className='px-lg-5 px-md-auto px-sm-auto py-2 text-main fs-5 mt-3 fw-bold p-5'> ولدينا الكوادر المؤهلة للقيام بذلك.</p>
         
         <div className="col-md-4 m-auto">
           <img src={logo} className='w-100' alt="" />
@@ -97,7 +97,7 @@ export default function Service3Organizations() {
     </div>
 
 
-    <div className='container-fluid px-lg-5 px-sm-0  mb-5 mt-5 bg-custom-father-body '>
+    <div className='container-fluid px-lg-5 px-md-auto px-sm-auto  mb-5 mt-5 bg-custom-father-body '>
 
 <div className=" title py-3 text-center ">
           <p className='fw-bolder fs-5 bg-white text-main mt-5 mb-1 '>  وتشمل خدماتنا الرئيسية ما يلي: </p>

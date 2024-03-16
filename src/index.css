@@ -688,7 +688,7 @@ transition:all 800ms ease;
     top:0%;
     z-index:-1;
 }
-.team-desc:hover p , .team-desc:hover h2{
+.team-desc:hover div , .team-desc:hover h2 , .team-desc:hover p{
     background-color:#ffffff !important;
     color: var(--second-color) !important;
     -webkit-transition:all 800ms ease-in-out;

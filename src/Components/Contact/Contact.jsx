@@ -73,7 +73,7 @@ export default function Contact() {
     </div>
 
     
-    <div className='container-fluid px-lg-5 px-sm-0  mb-5 mt-3 '>
+    <div className='container-fluid px-lg-5 px-md-auto px-sm-auto  mb-5 mt-3 '>
         <div className='row justify-content-center align-items-center '>
 
 

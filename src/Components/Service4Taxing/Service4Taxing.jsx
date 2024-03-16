@@ -66,7 +66,7 @@ export default function Service4Taxing() {
     </div>
 
 
-    <div className='container-fluid bg-custom-father-body px-lg-5 px-sm-0 my-5' >
+    <div className='container-fluid bg-custom-father-body px-lg-5 px-md-auto px-sm-auto my-5' >
       <div className='row g-0'>
 
         <div className='col-md-4 '>

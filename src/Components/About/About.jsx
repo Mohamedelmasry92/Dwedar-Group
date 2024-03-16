@@ -71,10 +71,10 @@ export default function About() {
 
 
 
-    <div className='container-fluid px-lg-5 px-sm-0 mt-3'>
+    <div className='container-fluid px-lg-5 px-md-5 px-sm-5 mt-3'>
       <div className='row '>
 
-        <div className='col-md-6 bg-custom-father-white p-0 '>
+        <div className='col-lg-6 col-md-12 col-sm-12 bg-custom-father-white p-0 '>
           <div className='bg-custom-blue-lines py-5 px-4'>
             <p className='text-dark fw-bolder py-1 bg-light fs-4'> نحن مؤسسة استشارات وخدمات مهنية مقرها في مصر </p>     
             
@@ -85,7 +85,7 @@ export default function About() {
           </div>
         </div>
         
-        <div className='col-md-6 p-0'>
+        <div className='col-lg-6 col-md-12 col-sm-12 p-0'>
             <img src={finance2} className='w-100 ' alt="image_about"/>
         </div>
       
@@ -94,14 +94,14 @@ export default function About() {
 
 
 
-    <div className='container-fluid px-lg-5 px-sm-0 mt-5'>
+    <div className='container-fluid px-lg-5 px-md-5 px-sm-5 mt-5'>
       <div className='row '>
 
-        <div className='col-md-6 p-0'>
+        <div className='col-lg-6 col-md-12 col-sm-12 p-0'>
             <img src={finance} className='w-100 ' alt=""/>  
         </div>
 
-        <div className='col-md-6 bg-custom-father-lines p-0 '>
+        <div className='col-lg-6 col-md-12 col-sm-12 bg-custom-father-lines p-0 '>
           <div className='bg-custom-blue-lines p-3'>
             <p className='text-dark fw-bolder py-1 mt-4 bg-light fs-4'> نحن ملتزمون بأن نكون مؤسسة مهنية متخصصة مفضلة في الاستشارات والتدريب والمراجعة والمحاسبة والضرائب، والعديد من الخدمات المهنية التي تحتاج إليها منشآت الأعمال.</p>     
             

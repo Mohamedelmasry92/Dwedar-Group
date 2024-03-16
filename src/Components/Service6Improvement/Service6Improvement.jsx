@@ -56,7 +56,7 @@ export default function Service6Improvement() {
     </div>
 
 
-    <div className='container-fluid bg-custom-father-body px-lg-5 px-sm-0 my-5' >
+    <div className='container-fluid bg-custom-father-body px-lg-5 px-md-auto px-sm-auto my-5' >
     <div className='row g-0'>
 
     <div className='col-md-4 '>
@@ -79,10 +79,10 @@ export default function Service6Improvement() {
 
     <div className='col-md-8 bg-white  shadow-lg '>
         <h3 className='fw-bolder p-1 text-center text-white bg-main'> تنمية الموارد البشرية : </h3>
-        <p className='px-lg-5 px-sm-0 py-2 text-main fs-5 mt-4 fw-bold'> يعد الاستثمار في التطوير المهني لموظفيك أمرًا بالغ الأهمية لنجاح شركتك.  </p>
-        <p className='px-lg-5 px-sm-0 py-2 text-main fs-5 mt-3 fw-bold'> نحن نقدم برامج تدريبية للشركات مصممة لتلبية الاحتياجات والمتطلبات المحددة لمؤسستك.</p>
-        <p className='px-lg-5 px-sm-0 py-2 text-main fs-5 mt-3 fw-bold'>  نعمل على تقديم برامج تدريبية للشركات مصممة لتطوير معارف ومهارات العاملين ورفع مستوى الأداء،</p>
-        <p className='px-lg-5 px-sm-0 py-2 text-main fs-5 mt-3 fw-bold'> وتغطي مجالات مثل الإدارة المالية، والمعايير المحاسبية، والقوانين واللوائح الضريبية، والمحاسبة الإدارية، والمراجعة الداخلية، والحوكمة، وغيرها من الموضوعات. </p>
+        <p className='px-lg-5 px-md-auto px-sm-auto py-2 text-main fs-5 mt-4 fw-bold'> يعد الاستثمار في التطوير المهني لموظفيك أمرًا بالغ الأهمية لنجاح شركتك.  </p>
+        <p className='px-lg-5 px-md-auto px-sm-auto py-2 text-main fs-5 mt-3 fw-bold'> نحن نقدم برامج تدريبية للشركات مصممة لتلبية الاحتياجات والمتطلبات المحددة لمؤسستك.</p>
+        <p className='px-lg-5 px-md-auto px-sm-auto py-2 text-main fs-5 mt-3 fw-bold'>  نعمل على تقديم برامج تدريبية للشركات مصممة لتطوير معارف ومهارات العاملين ورفع مستوى الأداء،</p>
+        <p className='px-lg-5 px-md-auto px-sm-auto py-2 text-main fs-5 mt-3 fw-bold'> وتغطي مجالات مثل الإدارة المالية، والمعايير المحاسبية، والقوانين واللوائح الضريبية، والمحاسبة الإدارية، والمراجعة الداخلية، والحوكمة، وغيرها من الموضوعات. </p>
            
 
     </div>
@@ -91,7 +91,7 @@ export default function Service6Improvement() {
     </div>
 
 
-    <div className="container-fluid bg-custom-father-body  px-lg-5 px-sm-0 my-5">
+    <div className="container-fluid bg-custom-father-body  px-lg-5 px-md-auto px-sm-auto my-5">
 
 
             <div className="row mt-5">
@@ -133,7 +133,7 @@ export default function Service6Improvement() {
                     </div>
 
                       <div className='bg-custom-father-body rounded rounded-2 '>             
-                        <div className='bg-custom-dark rounded rounded-2 shadow-lg mb-5 py-5 px-lg-5 px-sm-0 overflow-hidden'>             
+                        <div className='bg-custom-dark rounded rounded-2 shadow-lg mb-5 py-5 px-lg-5 px-md-auto px-sm-auto overflow-hidden'>             
                           <p className='text-white fw-bolder fs-5'> ويستخدمون منهجيات التدريب الفعالة، بما في ذلك المحاضرات التفاعلية والمناقشات وجلسات التدريب، وورش العمل، لتسهيل التعلم الفعال والاحتفاظ بالمعرفة. </p>
                         </div>
                       </div>

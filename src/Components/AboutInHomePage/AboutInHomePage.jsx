@@ -22,7 +22,7 @@ export default function AboutInHomePage() {
 
 
 
-    <div className='container-fluid p-md-5 p-sm-0'>
+    <div className='container-fluid p-lg-5 p-md-auto p-sm-auto'>
       <div className='row '>
         <div className='col-md-6 p-0'>
             <img src={about} className='w-100 ' alt=""/>  

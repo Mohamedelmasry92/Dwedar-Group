@@ -60,7 +60,7 @@ export default function Service1Consultations() {
     </div>
 
 
-    <div className='container-fluid bg-custom-father-body px-lg-5 px-sm-0 my-5' >
+    <div className='container-fluid bg-custom-father-body px-lg-5 px-md-auto px-sm-auto my-5' >
     <div className='row g-0'>
 
     <div className='col-md-4 '>
@@ -83,10 +83,10 @@ export default function Service1Consultations() {
 
     <div className='col-md-8 bg-white  shadow-lg '>
         <h3 className='fw-bolder p-1 text-center text-white bg-main'> خدمات الاستشارات : </h3>
-        <p className='px-lg-5 px-sm-0 py-2 text-main fs-5 mt-4 fw-bold'> تسعى مجموعة دويدار للخدمات المهنية الى تقديم الاستشارات التي تضيف قيمة لعملائنا،  </p>
-        <p className='px-lg-5 px-sm-0 py-2 text-main fs-5 mt-3 fw-bold'> فهي تساعد مجموعة متنوعة من العملاء في العديد من المجالات وذوي الاحتياجات المختلفة،</p>
-        <p className='px-lg-5 px-sm-0 py-2 text-main fs-5 mt-3 fw-bold'>  وتوفر ممارساتنا الاستشارية مجموعة واسعة من استشارات الحوكمة وإدارة المخاطر والمراجعة الداخلية، استشارات الصفقات، الاستشارات المالية والادارية</p>
-        <p className='px-lg-5 px-sm-0 py-2 text-main fs-5 mt-3 fw-bold'> يقدم فريق الخبراء لدينا خدمات استشارات الأعمال لمساعدة الشركات في تحديد نقاط الضعف والتغلب عليها، والتحديات وتجاوزها، وتحديد نقاط القوة والفرص واستغلالها.</p>
+        <p className='px-lg-5 px-md-auto px-sm-auto py-2 text-main fs-5 mt-4 fw-bold'> تسعى مجموعة دويدار للخدمات المهنية الى تقديم الاستشارات التي تضيف قيمة لعملائنا،  </p>
+        <p className='px-lg-5 px-md-auto px-sm-auto py-2 text-main fs-5 mt-3 fw-bold'> فهي تساعد مجموعة متنوعة من العملاء في العديد من المجالات وذوي الاحتياجات المختلفة،</p>
+        <p className='px-lg-5 px-md-auto px-sm-auto py-2 text-main fs-5 mt-3 fw-bold'>  وتوفر ممارساتنا الاستشارية مجموعة واسعة من استشارات الحوكمة وإدارة المخاطر والمراجعة الداخلية، استشارات الصفقات، الاستشارات المالية والادارية</p>
+        <p className='px-lg-5 px-md-auto px-sm-auto py-2 text-main fs-5 mt-3 fw-bold'> يقدم فريق الخبراء لدينا خدمات استشارات الأعمال لمساعدة الشركات في تحديد نقاط الضعف والتغلب عليها، والتحديات وتجاوزها، وتحديد نقاط القوة والفرص واستغلالها.</p>
            
 
     </div>
@@ -95,7 +95,7 @@ export default function Service1Consultations() {
     </div>
   
 
-    <div className='container-fluid bg-custom-father-body px-lg-5 px-sm-0 my-5' >
+    <div className='container-fluid bg-custom-father-body px-lg-5 px-md-auto px-sm-auto my-5' >
               <div className=" title py-3 text-center ">
                   <p className='fw-bolder fs-5 bg-white text-main mt-5 mb-1 '>وتشمل مجالات خدمات الاستشارات ما يلي:</p>
                   <div className="line translate-middle "></div>

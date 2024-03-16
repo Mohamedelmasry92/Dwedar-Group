@@ -10,7 +10,7 @@ export default function ValuesInHomePage() {
     <div className="bg-custom-img bg-light mb-5">
             <div className="bg-custom-overlay-blue mb-5">
 
-            <div className="container-fluid px-md-5 px-sm-0 opacity-100 position-relative mb-5">
+            <div className="container-fluid px-lg-5 px-md-auto px-sm-auto opacity-100 position-relative mb-5">
                 <div className="col-md-12 text-center shadow-lg">
                   <div className=' bg-custom-father-white shadow-lg'>
                     <div className='bg-white shadow-lg'>

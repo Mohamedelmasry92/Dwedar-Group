@@ -57,7 +57,7 @@ export default function Service5Problems() {
 </div>
 
 
-<div className='container-fluid bg-custom-father-body px-lg-5 px-sm-0 my-5' >
+<div className='container-fluid bg-custom-father-body px-lg-5 px-md-auto px-sm-auto my-5' >
   <div className='row g-0'>
 
     <div className='col-md-4 '>
@@ -80,10 +80,10 @@ export default function Service5Problems() {
 
     <div className='col-md-8 bg-white  shadow-lg '>
         <h3 className='fw-bolder p-1 text-center text-white bg-main'> النزاعات التجارية (التحكيم التجاري) : </h3>
-        <p className='px-lg-5 px-sm-0 py-2 text-main fs-5 mt-3 fw-bold'> ينتمي لمجموعة دويدار مجموعة من خبراء التحكيم التجاري،  </p>
-        <p className='px-lg-5 px-sm-0 py-2 text-main fs-5 mt-3 fw-bold'> لذلك يمكن أن نقدم لعملائنا بجانب المراجعة ، الاستشارات المساعدة على حل النزاعات التجارية.</p>
-        <p className='px-lg-5 px-sm-0 py-2 text-main fs-5 mt-3 fw-bold'>  من خلال علاقتنا الواسعة مع الشركاء، نستطيع أن نقدم لك مستشاراً قانونياً لتمثيلك بشكل صحيح.</p>
-        <p className='px-lg-5 px-sm-0 py-2 text-main fs-5 mt-3 fw-bold'> لدينا المهنيين الذين يقومون بتحليل البيانات المحاسبية المقدمة من الأطراف المعنية ونقوم بالتحقق من تلك البيانات من أجل الكشف عن الخسائر أو أي علامات احتيال، ثم نقوم بتقديم كل ما حصلنا عليه من نتائج للجهات المعنية. </p>
+        <p className='px-lg-5 px-md-auto px-sm-auto py-2 text-main fs-5 mt-3 fw-bold'> ينتمي لمجموعة دويدار مجموعة من خبراء التحكيم التجاري،  </p>
+        <p className='px-lg-5 px-md-auto px-sm-auto py-2 text-main fs-5 mt-3 fw-bold'> لذلك يمكن أن نقدم لعملائنا بجانب المراجعة ، الاستشارات المساعدة على حل النزاعات التجارية.</p>
+        <p className='px-lg-5 px-md-auto px-sm-auto py-2 text-main fs-5 mt-3 fw-bold'>  من خلال علاقتنا الواسعة مع الشركاء، نستطيع أن نقدم لك مستشاراً قانونياً لتمثيلك بشكل صحيح.</p>
+        <p className='px-lg-5 px-md-auto px-sm-auto py-2 text-main fs-5 mt-3 fw-bold'> لدينا المهنيين الذين يقومون بتحليل البيانات المحاسبية المقدمة من الأطراف المعنية ونقوم بالتحقق من تلك البيانات من أجل الكشف عن الخسائر أو أي علامات احتيال، ثم نقوم بتقديم كل ما حصلنا عليه من نتائج للجهات المعنية. </p>
            
 
     </div>
@@ -94,7 +94,7 @@ export default function Service5Problems() {
 
 
 
-    <div className='container-fluid px-lg-5 px-sm-0  mb-5 mt-5 bg-custom-father-body '>
+    <div className='container-fluid px-lg-5 px-md-auto px-sm-auto  mb-5 mt-5 bg-custom-father-body '>
 
     <div className=" title py-3 text-center ">
               <p className='fw-bolder fs-5 bg-white text-main mt-5 mb-1 '>  وتشمل خدماتنا الرئيسية ما يلي: </p>

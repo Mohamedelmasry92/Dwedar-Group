@@ -19,13 +19,13 @@ export default function ServicesHome() {
     <div className="mt-5 title pb-3 text-center">
               <p className='fw-bold  text-main'>ما نقدمه</p>
               <h2 className='fw-bolder mt-0'>خدماتنا</h2>
-              <div class="line translate-middle"></div>
+              <div className="line translate-middle"></div>
               {/* <p className='mt-4 fw-bold'>نحن ندعوك لتجربة خبرة والتزام مجموعة دويدار للخدمات المهنية</p> */}
     </div>
 
 
 
-    <div className="container-fluid  px-md-5 px-sm-0 mb-5">
+    <div className="container-fluid px-lg-5 px-md-auto px-sm-auto mb-5">
   <div className="row ">
 
 
@@ -69,7 +69,7 @@ export default function ServicesHome() {
 
 
   <div className="tab-content" id="pills-tabContent">
-    <div className="tab-pane fade show active" id="pills-service1" role="tabpanel" aria-labelledby="pills-service1-tab" tabindex="0">
+    <div className="tab-pane fade show active" id="pills-service1" role="tabpanel" aria-labelledby="pills-service1-tab" tabIndex="0">
       
     <div className="col-md-12 hover-sec mt-4">
 
@@ -101,7 +101,7 @@ export default function ServicesHome() {
 
     </div>
 
-    <div className="tab-pane fade" id="pills-service2" role="tabpanel" aria-labelledby="pills-service2-tab" tabindex="0">
+    <div className="tab-pane fade" id="pills-service2" role="tabpanel" aria-labelledby="pills-service2-tab" tabIndex="0">
       <div className="col-md-12 mt-4 hover-sec">
 
 <div className='bg-custom-father-white'>
@@ -130,7 +130,7 @@ export default function ServicesHome() {
     </div> 
     </div>
     
-    <div className="tab-pane fade" id="pills-service3" role="tabpanel" aria-labelledby="pills-service3-tab" tabindex="0">
+    <div className="tab-pane fade" id="pills-service3" role="tabpanel" aria-labelledby="pills-service3-tab" tabIndex="0">
       <div className="col-md-12 mt-4 hover-sec">
 
 <div className='bg-custom-father-white'>
@@ -161,7 +161,7 @@ export default function ServicesHome() {
     </div>
     
 
-    <div className="tab-pane fade" id="pills-service4" role="tabpanel" aria-labelledby="pills-service4-tab" tabindex="0">
+    <div className="tab-pane fade" id="pills-service4" role="tabpanel" aria-labelledby="pills-service4-tab" tabIndex="0">
       <div className="col-md-12 mt-4 hover-sec">
 
 <div className='bg-custom-father-white'>
@@ -192,7 +192,7 @@ export default function ServicesHome() {
     </div>
     
 
-    <div className="tab-pane fade" id="pills-service5" role="tabpanel" aria-labelledby="pills-service5-tab" tabindex="0">
+    <div className="tab-pane fade" id="pills-service5" role="tabpanel" aria-labelledby="pills-service5-tab" tabIndex="0">
       <div className="col-md-12 mt-4 hover-sec">
 
 <div className='bg-custom-father-white'>
@@ -223,7 +223,7 @@ export default function ServicesHome() {
     </div>
     
     
-    <div className="tab-pane fade" id="pills-service6" role="tabpanel" aria-labelledby="pills-service6-tab" tabindex="0">
+    <div className="tab-pane fade" id="pills-service6" role="tabpanel" aria-labelledby="pills-service6-tab" tabIndex="0">
       <div className="col-md-12 mt-4 hover-sec">
 
 <div className='bg-custom-father-white'>
